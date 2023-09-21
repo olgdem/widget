@@ -19,4 +19,4 @@ This widget cosists local time, date, quotes, audio player, wheather from anothe
 ![](https://img.shields.io/badge/-pagination-FFFF00)
 ![](https://img.shields.io/badge/-API-FFFF00)
 
-![screenshot](/screenshot_museum.jpg)
+![screenshot](/screenshot_widget.jpg)
